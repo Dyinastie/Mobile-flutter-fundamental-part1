@@ -4,7 +4,9 @@ A new Flutter project.
 
 ---
 > Nama  : Dyinastie Marchelina Puspitawening
+
 > NIM   : 2241720166
+
 > Kelas : TI-3D (08)
 ---
 
@@ -73,3 +75,28 @@ Membuat laporan
 
 ![Screenshot hello_world](images/14.png)
 ![Screenshot hello_world](images/15.png)
+
+### Tugas : Codelabs
+
+#### Menambahkan tombol
+
+![Screenshot hello_world](images/16.png)
+
+#### Memperindah tampilan aplikasi
+
+![Screenshot hello_world](images/17.png)
+
+#### Menambahkan fungsi
+
+![Screenshot hello_world](images/18.png)
+
+#### Menambahkan kolom samping navigasi 
+
+![Screenshot hello_world](images/19.png)
+![Screenshot hello_world](images/20.png)
+![Screenshot hello_world](images/21.png)
+
+#### Menambahkan halaman baru
+
+![Screenshot hello_world](images/22.png)
+![Screenshot hello_world](images/23.png)
